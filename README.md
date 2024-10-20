@@ -37,6 +37,10 @@ This analysis focuses on understanding the sales data of a pizza store. The anal
 - Sales peak during __[Time Period]__.
 - The total revenue from sales over the period analyzed is __[Total Sales Amount]__.
 
+## IMAGE OF DASHBOARD
+
+![Screenshot 2024-10-20 211851](https://github.com/user-attachments/assets/6d5b30d3-1435-4174-a578-0e83e4e953d4)
+
 ## How to Use the Excel File
 
 1. Open `pizza_sales_data.xlsx` in Excel.
